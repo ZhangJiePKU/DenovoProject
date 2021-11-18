@@ -15,11 +15,11 @@ Although gene duplication was considered as the predominant mechanism for the or
 
 - Deep learning part: We improved and used the method similar to DeepCpG (https://github.com/PMBio/deepcpg).
 
-- `/script/ISOR_value/`Calculate_ISOR.py: Calculate the ISOR values.
+- Calculate_ISOR.py: Calculate the ISOR values.
 
   Usage (python 2.7+) : python CalculateISOR.py -g XX.gpe -b XX.bam 
 
-- `/script/Tissue-specificity_expression_analysis/`TissueSpecificityExpressionAnalysis.sh
+- TissueSpecificityExpressionAnalysis.sh
 
   Usage: bash TissueSpecificityExpressionAnalysis.sh /PATH_INPUT/ [Option] /PATH_OUTPUT/
 
