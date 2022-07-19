@@ -19,12 +19,6 @@ Although gene duplication was considered as the predominant mechanism for the or
 
   Usage (python 2.7+) : python CalculateISOR.py -g XX.gpe -b XX.bam 
 
-- TissueSpecificityExpressionAnalysis.sh
-
-  Usage: bash TissueSpecificityExpressionAnalysis.sh /PATH_INPUT/ [Option] /PATH_OUTPUT/
-
-  For example: bash TissueSpecificityExpressionAnalysis.sh /PATH_INPUT/ ProteinCodingGenes /PATH_OUTPUT/
-
 ## Contact
 
 - queenanni@pku.edu.cn 
