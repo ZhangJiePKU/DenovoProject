@@ -12,7 +12,7 @@ Although gene duplication was considered as the predominant mechanism for the or
 
 ## Content
 
-- Deep learning part: We used the two two convolutional and pooling layers to investigate the key cis-elements underpinning the nuclear export of transcripts. And we further extracted the key cis-elements differentiating transcripts with varied nuclear export activity by prioritizing the activation values in the first convolutional layer of this CNN model by improving and using the method similar to DeepCpG (https://github.com/PMBio/deepcpg).
+- Deep learning part: We used the two convolutional and pooling layers to investigate the key cis-elements underpinning the nuclear export of transcripts. And we further extracted the key cis-elements differentiating transcripts with varied nuclear export activity by prioritizing the activation values in the first convolutional layer of this CNN model by improving and using the method similar to DeepCpG (https://github.com/PMBio/deepcpg).
 
 - Calculate_ISOR.py: Calculate the ISOR values.
 
